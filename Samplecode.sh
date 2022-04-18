@@ -1,2 +1,2 @@
-1echo “welcome to sample project”
-2echo “welcome to sample project”
+1.echo “welcome to sample project”
+2.echo “welcome to sample project”
